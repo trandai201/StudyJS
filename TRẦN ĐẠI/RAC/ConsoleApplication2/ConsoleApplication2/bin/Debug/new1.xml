@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Thoong tin Level-->
+<Levels>
+  <level levelIndex="1">
+    <Imagepath>dai.jpg</Imagepath>
+    <Rows>3</Rows>
+    <Clos>3</Clos>
+  </level>
+</Levels>

@@ -1,0 +1,13 @@
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\RdlCompile.cache
+C:\Users\Dai\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\RdlCompile.compiled

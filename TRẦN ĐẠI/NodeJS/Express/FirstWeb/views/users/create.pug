@@ -1,0 +1,22 @@
+extends ../layouts/common.pug
+block content
+    h1 Create User 
+    form(action="/users/create", method="post") 
+        input(type="text" name = "name")
+        button click
+    if errors 
+        each e in errors
+            .alert.alert-danger= e
+
+    form(method='post', action='/users/create')
+
+    
+        fieldset
+            legend Disabled fieldset example
+            .form-group
+            label(for='disabledTextInput') Disabled input
+            input#inputPassword5.form-control(type='text', aria-describedby='passwordHelpBlock' name="name" value=values ? values.name : "")
+            .form-group
+            label(for='disabledSelect') Disabled select menu
+            input#inputPassword51.form-control(type='text', aria-describedby='passwordHelpBlock' name = 'number' value=values ? values.number : "")
+            button.btn.btn-primary(type='submit', style='margin-top: 10px;') Submit

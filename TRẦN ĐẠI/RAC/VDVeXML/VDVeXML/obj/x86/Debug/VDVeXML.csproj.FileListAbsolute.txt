@@ -1,0 +1,4 @@
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\VDVeXML\VDVeXML\bin\Debug\VDVeXML.exe
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\VDVeXML\VDVeXML\bin\Debug\VDVeXML.pdb
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\VDVeXML\VDVeXML\obj\x86\Debug\VDVeXML.exe
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\VDVeXML\VDVeXML\obj\x86\Debug\VDVeXML.pdb

@@ -1,0 +1,2 @@
+Thầy ơi thầy đổi mật khẩu tài khoản sa thành 12345 nha thầy
+Tại em lấy được connection khi không có tài khoản để truy cập

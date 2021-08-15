@@ -1,0 +1,5 @@
+package com.newweb.model;
+
+public class UserModel {
+
+}

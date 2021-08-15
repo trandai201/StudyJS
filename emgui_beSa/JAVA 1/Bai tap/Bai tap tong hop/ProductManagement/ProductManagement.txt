@@ -1,0 +1,27 @@
+Write a program to manage product:
+Display the menu:
+1. Add an product 
+2. Display all products
+3. Delete an product
+4. Sort by id
+5. Sort by price
+6. Sort by name (first name)
+7. Quit 
+Your choice:
+
+1. If user chooses 1, let add product. Each product include ID (int), name (String), quantity (int), price (int).
+Whereas, product ID is increase automatically(i.e new product has ID equal to last product ID + 1) and the first product has ID: 1.  
+The input process loops until users accept “quit” for name field.
+
+2. If user chooses 2, the program needs to display list of products that were entered in 1st step. The list should be shown as the format below(the following data is just dummy):
+                ID             Name		Quantity		Price ($)
+                1	iphone 6s		1		700
+                2	galaxy s5		2		350
+                3	galaxy s6		1		400
+	Total: 			                               1800
+
+3. If user chooses 3, the program requires him/her enter the ID for delete, if no product has ID as given, display a message: “No product found”.
+4. If user chooses 4, sort by id of product
+5. If user chooses 5, sort by price of product
+6. If user chooses 6, sort by name of product
+7. If user chooses 7, quit the program.

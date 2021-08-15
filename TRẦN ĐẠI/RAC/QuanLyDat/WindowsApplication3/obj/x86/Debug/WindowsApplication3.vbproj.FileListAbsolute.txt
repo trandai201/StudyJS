@@ -1,0 +1,17 @@
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+c:\users\dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\Dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form2.resources
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form3.resources
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RdlCompile.cache
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Dai\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form4.resources
+C:\Users\Dai\Documents\Visual Studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Group_8_Đại_34.resources

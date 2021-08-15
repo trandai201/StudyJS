@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="QuanLiDatConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QuanLiDatConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.WindowsApplication3.My.MySettings.GlobalReference.Default.QuanLiDatConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="table_ThuaDat" msprop:Generator_TableClassName="table_ThuaDatDataTable" msprop:Generator_TableVarName="tabletable_ThuaDat" msprop:Generator_TablePropName="table_ThuaDat" msprop:Generator_RowDeletingName="table_ThuaDatRowDeleting" msprop:Generator_RowChangingName="table_ThuaDatRowChanging" msprop:Generator_RowEvHandlerName="table_ThuaDatRowChangeEventHandler" msprop:Generator_RowDeletedName="table_ThuaDatRowDeleted" msprop:Generator_UserTableName="table_ThuaDat" msprop:Generator_RowChangedName="table_ThuaDatRowChanged" msprop:Generator_RowEvArgName="table_ThuaDatRowChangeEvent" msprop:Generator_RowClassName="table_ThuaDatRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="maThuaDat" msprop:Generator_ColumnVarNameInTable="columnmaThuaDat" msprop:Generator_ColumnPropNameInRow="maThuaDat" msprop:Generator_ColumnPropNameInTable="maThuaDatColumn" msprop:Generator_UserColumnName="maThuaDat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="7" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="soCCCD" msprop:Generator_ColumnVarNameInTable="columnsoCCCD" msprop:Generator_ColumnPropNameInRow="soCCCD" msprop:Generator_ColumnPropNameInTable="soCCCDColumn" msprop:Generator_UserColumnName="soCCCD" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="12" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dientich" msprop:Generator_ColumnVarNameInTable="columndientich" msprop:Generator_ColumnPropNameInRow="dientich" msprop:Generator_ColumnPropNameInTable="dientichColumn" msprop:Generator_UserColumnName="dientich" type="xs:int" minOccurs="0" />
+              <xs:element name="diachi" msprop:Generator_ColumnVarNameInTable="columndiachi" msprop:Generator_ColumnPropNameInRow="diachi" msprop:Generator_ColumnPropNameInTable="diachiColumn" msprop:Generator_UserColumnName="diachi" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="70" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="dai" msprop:Generator_ColumnVarNameInTable="columndai" msprop:Generator_ColumnPropNameInRow="dai" msprop:Generator_ColumnPropNameInTable="daiColumn" msprop:Generator_UserColumnName="dai" type="xs:int" minOccurs="0" />
+              <xs:element name="rong" msprop:Generator_ColumnVarNameInTable="columnrong" msprop:Generator_ColumnPropNameInRow="rong" msprop:Generator_ColumnPropNameInTable="rongColumn" msprop:Generator_UserColumnName="rong" type="xs:int" minOccurs="0" />
+              <xs:element name="loai" msprop:Generator_ColumnVarNameInTable="columnloai" msprop:Generator_ColumnPropNameInRow="loai" msprop:Generator_ColumnPropNameInTable="loaiColumn" msprop:Generator_UserColumnName="loai" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

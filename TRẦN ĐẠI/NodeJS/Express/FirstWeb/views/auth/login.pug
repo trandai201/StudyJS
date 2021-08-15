@@ -1,0 +1,20 @@
+extends ../layouts/common.pug
+block content
+    h1 Đăng Nhập
+  
+    if errors 
+        each e in errors
+            .alert.alert-danger= e
+
+    form(method='post')
+
+    
+        fieldset
+            legend 
+            .form-group
+            label(for='disabledTextInput')  Email
+            input#inputPassword5.form-control(type='text', aria-describedby='passwordHelpBlock' name="email" value=values ? values.email : "")
+            .form-group
+            label(for='disabledSelect') Password
+            input#inputPassword51.form-control(type='text', aria-describedby='passwordHelpBlock' name = 'password' value=values ? values.password : "")
+            button.btn.btn-primary(type='submit', style='margin-top: 10px;') Submit

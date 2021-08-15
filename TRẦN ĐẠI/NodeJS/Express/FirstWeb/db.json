@@ -1,0 +1,68 @@
+{
+  "listUser": [
+    {
+      "id": "1",
+      "name": "dai",
+      "phone": "123456789"
+    },
+    {
+      "id": "2",
+      "name": "THu Hoa",
+      "phone": "123456789"
+    },
+    {
+      "id": "3",
+      "name": "Tran dat",
+      "phone": "123456789"
+    },
+    {
+      "id": "4",
+      "name": "asdasda",
+      "phone": "123456789"
+    },
+    {
+      "id": "5",
+      "name": "Tran  Dai",
+      "phone": "123456789"
+    },
+    {
+      "id": "A9NWQ5L29",
+      "name": "dai2",
+      "phone": "123456789"
+    },
+    {
+      "id": "VakPPMlr0",
+      "name": "Trần Đại Đại Gia",
+      "phone": "123456789",
+      "email": "123@123.com",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "id": "AwtiDTAqH",
+      "name": "đâsd",
+      "phone": "123456789"
+    },
+    {
+      "id": "htTlgjIO4",
+      "name": "ád",
+      "phone": "123456789"
+    },
+    {
+      "id": "lJuL_djVQ",
+      "name": "Trần Đại Đã làm được"
+    },
+    {
+      "id": "T_c37KFRw",
+      "name": "đã làm lại"
+    },
+    {
+      "id": "OBbWxeEVQ",
+      "name": "ád"
+    },
+    {
+      "id": "RKthwKpiS",
+      "name": ":>>>>>>>>>",
+      "phone": "không được nữa đi"
+    }
+  ]
+}

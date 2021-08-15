@@ -1,0 +1,7 @@
+
+public class abc {
+	String temp ;
+	public static void main() {
+		System.out.println("heloooo");
+	}
+}

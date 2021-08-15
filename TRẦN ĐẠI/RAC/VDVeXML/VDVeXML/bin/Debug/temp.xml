@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<students>
+  <student>
+    <id>SD0001</id>
+    <name>Tăng Thị Thu Hòa</name>
+    <old>19</old>
+    <DOB>2001-03-01T00:00:00+07:00</DOB>
+    <class>19T1</class>
+  </student>
+  <student>
+    <id>SD0002</id>
+    <name>Trần Đại</name>
+    <old>21</old>
+    <DOB>2001-01-24T00:00:00+07:00</DOB>
+    <class>19T2</class>
+  </student>
+</students>
